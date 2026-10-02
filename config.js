@@ -1,3 +1,3 @@
 const CONFIG = {
-  SERVER_WS: "wss://silent-sloths-show.loca.lt"
+  SERVER_WS: "wss://36a4639128b8eb.lhr.life"
 };
