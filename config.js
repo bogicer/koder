@@ -1,3 +1,3 @@
 const CONFIG = {
-  SERVER_WS: "wss://5a6c29a7365ddf.lhr.life"
+  SERVER_WS: "wss://f28a6fd7ce19ad.lhr.life"
 };
